@@ -1,4 +1,4 @@
-### 안녕하세요 송진우입니다. 👋
+### 안녕하세요. 👋
 I want to be Backend Developer.
 I enjoy hiking and walking.
 
